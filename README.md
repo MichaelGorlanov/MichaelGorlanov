@@ -27,20 +27,6 @@ fun_fact: 'Definitely "doesn't" use AI at school 👀'
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=FF00FF&text_color=00FFFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=synthwave&hide_border=true&background=0d0d0d&stroke=39FF14&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF" />
-</p>
-
-> ⚠️ Swap `YOUR_GITHUB_USERNAME` above for your actual GitHub username or these two won't load.
-
----
-
 ### 🎮 When My Code Doesn't Compile
 
 <p align="center">
@@ -67,5 +53,5 @@ fun_fact: 'Definitely "doesn't" use AI at school 👀'
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=39FF14&style=for-the-badge&labelColor=0d0d0d" />
+  <img src="https://komarev.com/ghpvc/?username=MichaelGorlanov&label=Profile+Views&color=39FF14&style=for-the-badge&labelColor=0d0d0d" />
 </p>
